@@ -1,0 +1,11 @@
+data_analytics_pipeline/
+│
+├── scripts/
+│   ├── extract.py
+│   ├── transform.py
+│   ├── load.py
+│   ├── query.py
+│   └── analytics.py
+│
+├── requirements.txt
+└── README.md
