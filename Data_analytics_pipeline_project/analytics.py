@@ -15,9 +15,9 @@ def create_connection():
 def fetch_data():
     connection = create_connection()
     query = """
-    SELECT u.name, nl.log_time, nl.action 
+    SELECT u.username, nl.timestamp, nl.action 
     FROM users u 
-    JOIN network_logs nl ON u.id = nl.user_id;
+    JOIN network_logs nl ON u.user_id = nl.user_id;
     """
     df = pd.read_sql(query, connection)
     connection.close()
