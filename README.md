@@ -4,6 +4,7 @@ Project Title: Data Analytics Pipeline for User and Network Log Analysis
 Objective: The goal of this project is to design and implement a data analytics pipeline that extracts, transforms, and loads (ETL) data from a MySQL database containing user information and network logs. The pipeline provides actionable insights into user activities based on the logs.
 
 Project Title: Flight Fare Prediction and Analysis
+
 Objective: The goal of this project is to develop a data analytics pipeline that predicts flight fares based on various factors such as departure and arrival locations, flight duration, airline, and time of booking. The project will also analyze historical flight fare data to provide insights into fare trends and pricing strategies.
 
 Project Description for Flight Fare Prediction
