@@ -9,3 +9,4 @@ Feature Engineering: Create new features and select the most important ones.
 Model Building: Train ML models like Logistic Regression, Random Forest, and XGBoost.
 Model Evaluation: Evaluate using accuracy, precision, recall, and AUC-ROC.
 Deployment: Save the best model and demonstrate predictions.
+#this was all about my Project
