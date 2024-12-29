@@ -7,8 +7,6 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_squared_error, r2_score
 from sklearn.preprocessing import LabelEncoder
 
-import pandas as pd
-
 # Load the dataset
 data = pd.read_excel("Data_Train.xlsx")
 
